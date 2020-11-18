@@ -1,6 +1,7 @@
 <?php
 	include 'database.php';
 	// check
+	// again check
 ?>
 
 <!DOCTYPE html>
